@@ -1,1 +1,1 @@
-[[https://github.com/booclub/Book-Club-Wiki/wiki|Книжный Клуб "Radiochan" Wiki]]
+[Книжный Клуб "Radiochan" Wiki](https://github.com/booclub/Book-Club-Wiki/wiki)
